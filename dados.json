@@ -1,0 +1,19 @@
+{ "alok":
+    {
+     "imagem": "<img src='j1.webp'width='300px'height=300px'>",
+    "nome": "Alok",
+    "idade": "32 Anos",
+    "valor":"49.99" 
+}, 
+
+"Liu" : {"imagem": "<img src='j1.jpg' width='300px'height=300px'>",
+ "nome": "Liu",
+ "idade": "26 Anos",
+ "valor":"29.99" }, 
+
+"DavidGuetta" : {"imagem": "<img src='j3.webp' width='300px'height=300px'>",
+ "nome": "David Guetta",
+ "idade": "55 Anos",
+ "valor":"59.99"
+}
+}
